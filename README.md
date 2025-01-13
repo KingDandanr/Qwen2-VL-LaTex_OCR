@@ -531,7 +531,7 @@ swanlab.finish()
 
 在inference中修改测试图片路径
 
-![image-20250113185242965](images.assets/修改测试图片.png)
+![image-20250113185242965](images.assets/修改测试图片.png)	
 
 
 测试结果如下：

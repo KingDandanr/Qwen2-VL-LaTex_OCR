@@ -519,6 +519,12 @@ swanlab.finish()
 
 ## 训练结果演示
 
+![结果图片1](images.assets/结果图片1.png)	
+
+
+
+![结果图片2](images.assets/结果图片2.png)	
+
 我们给出两个图片进行测试
 
 <img src="images.assets/test1.png"  style="zoom:80%;" />	![image-20250113190908555](images.assets/test2.png)	

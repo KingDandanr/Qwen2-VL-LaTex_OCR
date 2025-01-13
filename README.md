@@ -510,11 +510,11 @@ swanlab.finish()
 
 我们给出两个图片进行测试
 
-<img src="images.assets/test1.png"  style="zoom:80%;" />	![image-20250113185242965](images.assets/test2.png)
+<img src="images.assets/test1.png"  style="zoom:80%;" />	![image-20250113190908555](images.assets/test2.png)	
 
 在inference中修改测试图片路径
+![image-20250113185242965](images.assets/修改测试图片.png)
 
-![image-20250113190908555](images.assets/test2.png)	
 
 测试结果如下：
 

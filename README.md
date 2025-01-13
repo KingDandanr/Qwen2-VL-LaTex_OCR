@@ -52,6 +52,7 @@ pip install torchvision
 ## 准备数据集
 
 本节使用的是 [LaTex_OCR](https://link.zhihu.com/?target=https%3A//modelscope.cn/datasets/AI-ModelScope/LaTeX_OCR/summary) 数据集，这个数据集包含了大量的数学公式图片，以及对应的LaTex语法字符串。可以看到，下图中的image就是学术公式图，text就是对应的LaTex语法字符串：
+![image-20250113190908555](images.assets/test2.png)	
 
 了解了数据集结构之后，我们需要做的是将这些数据整理成Qwen2-VL需要的json格式，下面是目标的格式：
 

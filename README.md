@@ -26,7 +26,10 @@
 
 ## 环境配置
 
-1. 确保你的电脑上至少有一张英伟达显卡，并已安装好了CUDA环境。
+环境配置如果有不懂，更详细的说明可以看[这篇文章](https://github.com/KingDandanr/Qwen2-VL_Test_Image-Recognition)
+
+确保你的电脑上至少有一张英伟达显卡，并已安装好了CUDA环境。
+
 2. 安装Python（版本>=3.8）以及能够调用**CUDA加速的PyTorch**。
 3. 安装与Qwen2-VL微调相关的第三方库，可以使用以下命令：
 
